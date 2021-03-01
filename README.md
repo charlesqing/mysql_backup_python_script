@@ -1,0 +1,2 @@
+# mysql_backup_python_script
+python写的一个mysql数据库备份脚本
