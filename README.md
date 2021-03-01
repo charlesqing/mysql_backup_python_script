@@ -1,2 +1,2 @@
 # mysql_backup_python_script
-python写的一个mysql数据库备份脚本
+python写的一个mysql数据库备份脚本,可以调用zstd压缩数据库备份文件
